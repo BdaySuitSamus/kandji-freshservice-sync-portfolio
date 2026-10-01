@@ -1,0 +1,4 @@
+config.json
+last_plan.json
+*.log
+.last_success

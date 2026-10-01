@@ -1,0 +1,12 @@
+{
+  "freshservice_domain": "yourcompany.freshservice.com",
+  "freshservice_asset_type_ids": [12345678901],
+  "freshservice_serial_field": "serial_number_12345678900",
+  "freshservice_state_field": "asset_state_12345678900",
+  "in_use_state": "In Use",
+  "in_stock_state": "In Stock",
+  "stock_owner_emails": ["it@example.com"],
+  "quiet_states": ["Retired"],
+  "max_owner_changes": 10,
+  "slack_user_id": "U00000000"
+}
